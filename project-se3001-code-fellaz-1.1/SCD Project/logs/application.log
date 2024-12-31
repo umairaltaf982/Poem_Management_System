@@ -1,0 +1,16 @@
+20:32:22.717 [main] ERROR dal.DataAccess - Connection error: JDBC_Setup.properties (The system cannot find the file specified)
+18:59:50.811 [main] ERROR dal.DataAccess - Connection error: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+19:23:42.147 [main] ERROR dal.DataAccess - Connection error: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+23:04:22.575 [main] ERROR dal.DataAccess - Connection error: Access denied for user 'root'@'localhost' (using password: YES)
+23:14:09.879 [main] ERROR dal.DataAccess - Connection error: Access denied for user 'root'@'localhost' (using password: YES)
+23:14:41.951 [main] ERROR dal.DataAccess - Connection error: Access denied for user 'root'@'localhost' (using password: YES)
+02:59:38.443 [main] ERROR dal.DataAccess - Connection error: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+14:17:21.614 [main] ERROR dal.DataAccess - Connection error: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
